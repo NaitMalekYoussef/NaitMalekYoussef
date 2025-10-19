@@ -2,7 +2,7 @@
 - 👀 I’m interested in embedded systems, DIY, computer science and more
 - 🌱 I’m currently learning new stuff
 
-- 📫 How to reach me by eamil : naitmalek.youssef@gmail.com
+<!-- - 📫 How to reach me by eamil : naitmalek.youssef@gmail.com -->
 
 
 <!---
